@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Add in github
 import os
 
@@ -8,4 +7,4 @@ def hello():
   
 if __name__ == "__main__":
   print("hello")
-  print("hi")
+  print("Add in master branch")
